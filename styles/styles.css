@@ -1,0 +1,44 @@
+/* first part */
+.header{
+    background-color: antiquewhite;
+    width: 100%;
+}
+.Links{
+    display: flex;
+    justify-content: space-around;   
+}
+.click{
+    
+display: flex;
+gap: 30px;
+font-size: calc(70%);
+margin-top: 25px;
+
+        
+}
+ a{
+    text-decoration: none;
+    color: black;  
+
+}
+
+.text{
+    text-align: center;
+    
+}
+.btn1{
+    background-color: coral;
+    color: azure;
+     border: 0ch;
+    width: 100px;
+    height: 35px;
+}
+.brand{
+    font-size: 40px;
+}
+div img{
+   width: 650px;
+   height: 400PX;
+  padding-left: 600PX;
+  padding-bottom: 50PX;
+}
