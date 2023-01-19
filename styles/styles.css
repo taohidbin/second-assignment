@@ -102,6 +102,48 @@ div img{
     font-size: 30px;
 
 }
+/* 2nddddddddK */
+.secondclass{
+    font-size: 8px;
+    box-shadow: black;
+    border: 1px solid black;
+   width: 200px;
+  
+   margin-left: 700px;
+   margin-top: 10px;
+}
+.joss{
+    font-size: 9px;
+    box-shadow: black;
+  
+   width: 200px;
+   margin-left: 700px;
+   margin-top: 40px;
+   border-left: 3px solid orangered;
+}
+.jossss img{
+    width: 300px;
+    height:500px ;
+}
+.jossss{
+    margin-left: 400px;
+margin-top: -490px ;
+}
+.btntwo{
+    background-color: coral;
+border: 0ch;
+height: 90px;
+width: 130px;
+}
+.btnthree{
+font-size: 21px;
+color: aliceblue;
+font-weight: 700;
+}
+.btnfour{
+    margin-left: 950px;
+    margin-top: -130px;
+}
 /* 4thone */
 .thirdshell img{
     height: 20px;
@@ -191,5 +233,44 @@ margin-bottom: -89px;
 .fifthh5{
     margin-left: 600px;
 
+
+}
+/* hmm */
+.qwe{
+    width:1000px;
+    height:590px;
+    margin-left: 350px;
+    margin-top: 100px;
+  
+ }
+ .owntexpic{
+     text-align: center;
+ }
+ #TAO{
+     font-size: 20px;
+ }
+ .tntwo{
+     background-color:rgb(0, 2, 90);
+     width: 156px;
+     height: 65px;
+     border-style: none;
+     margin-top: 5px;
+    
+     font-size: 25px;
+     font-weight: 400; 
+     color: aliceblue;
+   
+ }
+ .border{
+ margin: 90px 90px;
+ background-color: beige;
+ }
+ /* :end */
+ .last{
+    border: 1px solid beige;
+ background-color: bisque;
+width: 1900px;
+text-align: center;
+padding-bottom: 10px;
 
 }
